@@ -2,4 +2,20 @@ Jo
 Christina
 Daniel
 Tobias
+<<<<<<< HEAD
 Adam
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+Help me
+>>>>>>> b53a8f39c51de449542ab1c7c182dd5ea5e926de
