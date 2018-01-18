@@ -1,6 +1,9 @@
-Adam
-Christina
-Daniel
 Tobias
+<<<<<<< HEAD
 
 Git is weird
+=======
+Daniel
+Christina
+Adam;
+>>>>>>> f8459b087119ed4481fdecb2c24d0b8e16996d61
